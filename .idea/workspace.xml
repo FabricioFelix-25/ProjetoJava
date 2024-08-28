@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="criação da entrada de dados">
-      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="area de avaliaçoes">
+      <change afterPath="$PROJECT_DIR$/src/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjetoJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Screen Match.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +56,13 @@
     "Application.Condicional.executor": "Run",
     "Application.Conditional.executor": "Run",
     "Application.Leitura.executor": "Run",
+    "Application.Loop.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/projetos/PojetoJava",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,37 +80,45 @@
       <recent name="C:\projetos\ProjetoJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Loop">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicional" />
-      <module name="ProjetoJava" />
+      <module name="Screen Match" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Conditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditional" />
-      <module name="ProjetoJava" />
+      <module name="Screen Match" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Leitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leitura" />
-      <module name="ProjetoJava" />
+      <module name="Screen Match" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop" />
-      <module name="ProjetoJava" />
+      <module name="Screen Match" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="Screen Match" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Leitura" />
         <item itemvalue="Application.Conditional" />
@@ -132,7 +145,8 @@
       <workItem from="1724683552830" duration="1170000" />
       <workItem from="1724777567335" duration="114000" />
       <workItem from="1724786724328" duration="3125000" />
-      <workItem from="1724862808277" duration="975000" />
+      <workItem from="1724862808277" duration="2490000" />
+      <workItem from="1724865387202" duration="237000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -182,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724863380131</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="area de avaliaçoes">
+      <option name="closed" value="true" />
+      <created>1724864046240</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724864046240</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +228,7 @@
     <MESSAGE value="cast de valores" />
     <MESSAGE value="if else para nivel de plan0" />
     <MESSAGE value="criação da entrada de dados" />
-    <option name="LAST_COMMIT_MESSAGE" value="criação da entrada de dados" />
+    <MESSAGE value="area de avaliaçoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="area de avaliaçoes" />
   </component>
 </project>
