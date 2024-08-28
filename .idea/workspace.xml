@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="if else para nivel de plan0">
-      <change afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="criação da entrada de dados">
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,34 +47,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Condicional.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Conditional.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/projetos/ProjetoJava/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Condicional.executor": "Run",
+    "Application.Conditional.executor": "Run",
+    "Application.Leitura.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/projetos/ProjetoJava/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\projetos\ProjetoJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Leitura">
+  <component name="RunManager" selected="Application.Loop">
     <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condicional" />
       <module name="ProjetoJava" />
@@ -96,8 +97,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop" />
+      <module name="ProjetoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Leitura" />
         <item itemvalue="Application.Conditional" />
         <item itemvalue="Application.Condicional" />
@@ -123,7 +132,7 @@
       <workItem from="1724683552830" duration="1170000" />
       <workItem from="1724777567335" duration="114000" />
       <workItem from="1724786724328" duration="3125000" />
-      <workItem from="1724862808277" duration="336000" />
+      <workItem from="1724862808277" duration="975000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -165,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724789607576</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="criação da entrada de dados">
+      <option name="closed" value="true" />
+      <created>1724863380131</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724863380131</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +205,7 @@
     <MESSAGE value="teste das 3 &quot;&quot;&quot;" />
     <MESSAGE value="cast de valores" />
     <MESSAGE value="if else para nivel de plan0" />
-    <option name="LAST_COMMIT_MESSAGE" value="if else para nivel de plan0" />
+    <MESSAGE value="criação da entrada de dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="criação da entrada de dados" />
   </component>
 </project>
