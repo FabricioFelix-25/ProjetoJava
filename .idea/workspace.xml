@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="inicio de fato">
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="continuação da classe filme e principal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +145,8 @@
       <workItem from="1724786724328" duration="3125000" />
       <workItem from="1724862808277" duration="2490000" />
       <workItem from="1724865387202" duration="830000" />
-      <workItem from="1724936150654" duration="1695000" />
+      <workItem from="1724936150654" duration="1852000" />
+      <workItem from="1725022484403" duration="200000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -212,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724865688715</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="continuação da classe filme e principal">
+      <option name="closed" value="true" />
+      <created>1724938017249</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724938017249</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +246,7 @@
     <MESSAGE value="criação da entrada de dados" />
     <MESSAGE value="area de avaliaçoes" />
     <MESSAGE value="inicio de fato" />
-    <option name="LAST_COMMIT_MESSAGE" value="inicio de fato" />
+    <MESSAGE value="continuação da classe filme e principal" />
+    <option name="LAST_COMMIT_MESSAGE" value="continuação da classe filme e principal" />
   </component>
 </project>
