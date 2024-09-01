@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment=".">
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="limpeza de programa, e criação de pack">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leitura.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +148,7 @@
       <workItem from="1724865387202" duration="830000" />
       <workItem from="1724936150654" duration="1852000" />
       <workItem from="1725022484403" duration="621000" />
-      <workItem from="1725212498900" duration="405000" />
+      <workItem from="1725212498900" duration="797000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -241,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725023006936</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="limpeza de programa, e criação de pack">
+      <option name="closed" value="true" />
+      <created>1725212935710</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725212935710</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +274,7 @@
     <MESSAGE value="continuação da classe filme e principal" />
     <MESSAGE value="uso de private para classe filme" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="limpeza de programa, e criação de pack" />
+    <option name="LAST_COMMIT_MESSAGE" value="limpeza de programa, e criação de pack" />
   </component>
 </project>
