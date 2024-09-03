@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="limpeza de programa, e criação de pack">
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="getter setter">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" afterDir="false" />
@@ -148,7 +150,8 @@
       <workItem from="1724865387202" duration="830000" />
       <workItem from="1724936150654" duration="1852000" />
       <workItem from="1725022484403" duration="621000" />
-      <workItem from="1725212498900" duration="797000" />
+      <workItem from="1725212498900" duration="1189000" />
+      <workItem from="1725364741069" duration="763000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -246,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725212935710</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="getter setter">
+      <option name="closed" value="true" />
+      <created>1725213351506</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725213351506</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +286,7 @@
     <MESSAGE value="uso de private para classe filme" />
     <MESSAGE value="." />
     <MESSAGE value="limpeza de programa, e criação de pack" />
-    <option name="LAST_COMMIT_MESSAGE" value="limpeza de programa, e criação de pack" />
+    <MESSAGE value="getter setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="getter setter" />
   </component>
 </project>
