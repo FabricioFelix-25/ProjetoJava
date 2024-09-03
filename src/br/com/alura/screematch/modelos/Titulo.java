@@ -4,6 +4,7 @@ public class Titulo {
 
     private String nome;
     private int anoDeLancamento;
+    private int dataDeLancamento;
     private boolean incluidoNoPlano;
     private double somaDasAvaliacoes;
     private int totalDeAvaliacoes;
@@ -22,6 +23,13 @@ public class Titulo {
 
     public int getAnoDeLancamento() {
         return anoDeLancamento;
+    }
+    public int getDataDeLancamento() {
+        return dataDeLancamento;
+    }
+
+    public void setDataDeLancamento(int dataDeLancamento) {
+        this.dataDeLancamento = dataDeLancamento;
     }
 
     public boolean isIncluidoNoPlano() {
