@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="uso de herança para filmes e series">
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="atualilação com override">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculo/CalculadoraDeTempo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +149,8 @@
       <workItem from="1724936150654" duration="1852000" />
       <workItem from="1725022484403" duration="621000" />
       <workItem from="1725212498900" duration="1189000" />
-      <workItem from="1725364741069" duration="1305000" />
+      <workItem from="1725364741069" duration="1618000" />
+      <workItem from="1725554334522" duration="484000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -264,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725365579095</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="atualilação com override">
+      <option name="closed" value="true" />
+      <created>1725366286776</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725366286776</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +303,7 @@
     <MESSAGE value="limpeza de programa, e criação de pack" />
     <MESSAGE value="getter setter" />
     <MESSAGE value="uso de herança para filmes e series" />
-    <option name="LAST_COMMIT_MESSAGE" value="uso de herança para filmes e series" />
+    <MESSAGE value="atualilação com override" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualilação com override" />
   </component>
 </project>

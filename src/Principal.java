@@ -1,5 +1,6 @@
 import br.com.alura.screematch.modelos.Filme;
 import br.com.alura.screematch.modelos.Serie;
+import br.com.alura.screenmatch.calculo.CalculadoraDeTempo;
 
 public class Principal {
     public static void main(String[] args) {
@@ -29,6 +30,14 @@ public class Principal {
 
 
 
+        Filme outroFilme = new Filme();
+        outroFilme.setNome("outro-----");
+        outroFilme.setAnoDeLancamento(1970);
+        outroFilme.setDuracaoEmMinutos( 200);
+
+        CalculadoraDeTempo calculadora = new CalculadoraDeTempo();
+        calculadora.inclui(outroFilme);
+        System.out.println(calculadora.getTempoTotal());
     }
 
 
