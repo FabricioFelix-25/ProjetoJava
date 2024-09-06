@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="atualilação parte de duraçao de filme">
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="limpeza de codigo">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Episodio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculo/Classificavel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculo/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculo/CalculadoraDeTempo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +150,8 @@
       <workItem from="1725022484403" duration="621000" />
       <workItem from="1725212498900" duration="1189000" />
       <workItem from="1725364741069" duration="1618000" />
-      <workItem from="1725554334522" duration="1331000" />
+      <workItem from="1725554334522" duration="1551000" />
+      <workItem from="1725630121481" duration="669000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -279,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725554990285</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="limpeza de codigo">
+      <option name="closed" value="true" />
+      <created>1725555835308</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1725555835308</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +322,7 @@
     <MESSAGE value="uso de herança para filmes e series" />
     <MESSAGE value="atualilação com override" />
     <MESSAGE value="atualilação parte de duraçao de filme" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualilação parte de duraçao de filme" />
+    <MESSAGE value="limpeza de codigo" />
+    <option name="LAST_COMMIT_MESSAGE" value="limpeza de codigo" />
   </component>
 </project>
