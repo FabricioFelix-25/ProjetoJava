@@ -8,7 +8,7 @@ public class FiltroRecomendacao {
             System.out.println("Esta entre os preferidos do momento");
 
         }else if (classificavel.getClassificacao() >=2){
-            System.out.println("Muito bem avqaliado no momento");
+            System.out.println("Muito bem avaliado no momento");
         }else {
             System.out.println("Assista mais tarde!");
         }
