@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="atualiazção de estrelas">
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="uso de arrayList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculo/FiltroRecomendacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculo/FiltroRecomendacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +153,7 @@
       <workItem from="1725554334522" duration="1551000" />
       <workItem from="1725630121481" duration="1332000" />
       <workItem from="1725883203044" duration="2601000" />
-      <workItem from="1726256382976" duration="786000" />
+      <workItem from="1726256382976" duration="1559000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -307,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725885577122</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="uso de arrayList">
+      <option name="closed" value="true" />
+      <created>1726257449572</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1726257449572</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,6 +351,7 @@
     <MESSAGE value="limpeza de codigo" />
     <MESSAGE value="criação de interface" />
     <MESSAGE value="atualiazção de estrelas" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualiazção de estrelas" />
+    <MESSAGE value="uso de arrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="uso de arrayList" />
   </component>
 </project>
