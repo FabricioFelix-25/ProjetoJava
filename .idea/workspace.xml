@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="Uso do tostring" />
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="..">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +154,8 @@
       <workItem from="1725630121481" duration="1332000" />
       <workItem from="1725883203044" duration="2601000" />
       <workItem from="1726256382976" duration="2234000" />
+      <workItem from="1726532537079" duration="18000" />
+      <workItem from="1726662674004" duration="2801000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -319,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726258032530</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="..">
+      <option name="closed" value="true" />
+      <created>1726532548070</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726532548070</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,6 +371,7 @@
     <MESSAGE value="atualiazção de estrelas" />
     <MESSAGE value="uso de arrayList" />
     <MESSAGE value="Uso do tostring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uso do tostring" />
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
 </project>
