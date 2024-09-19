@@ -8,8 +8,7 @@ import java.util.ArrayList;
 
 public class Principal {
     public static void main(String[] args) {
-        Filme meuFilme = new Filme("O poderoso chefão");
-        meuFilme.setAnoDeLancamento(1970);
+        Filme meuFilme = new Filme("O poderoso chefão",1970);
         meuFilme.setDuracaoEmMinutos( 180);
 
 
@@ -22,9 +21,7 @@ public class Principal {
         System.out.println(meuFilme.pegaMedia());
 
 
-        Serie lost = new Serie();
-        lost.setNome("Lost");
-        lost.setDataDeLancamento(2000);
+        Serie lost = new Serie("Lost", 2000);
         lost.exibeFichaTecnica();
         lost.setTemporadas(10);
         lost.setEpisodiosPorTemporada(10);
@@ -33,8 +30,7 @@ public class Principal {
 
 
 
-        Filme outroFilme = new Filme("outro-----");
-        outroFilme.setAnoDeLancamento(1970);
+        Filme outroFilme = new Filme("outro-----",1971);
         outroFilme.setDuracaoEmMinutos( 200);
 
         CalculadoraDeTempo calculadora = new CalculadoraDeTempo();
@@ -51,9 +47,7 @@ public class Principal {
         episodio.setTotaVisualizacoes(300);
         filtro.filtra(episodio);
 
-        var filmeDoFabricio = new Filme("Filme do fabricio");
-        //filmeDoFabricio.setNome("Filme do fabricio");
-        filmeDoFabricio.setAnoDeLancamento(2003);
+        var filmeDoFabricio = new Filme("Filme do fabricio",2003);
         filmeDoFabricio.setDuracaoEmMinutos(300);
         filmeDoFabricio.avalia(9);
 
