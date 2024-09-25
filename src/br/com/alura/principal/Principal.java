@@ -1,3 +1,5 @@
+package br.com.alura.principal;
+
 import br.com.alura.screematch.modelos.Episodio;
 import br.com.alura.screematch.modelos.Filme;
 import br.com.alura.screematch.modelos.Serie;
@@ -47,7 +49,7 @@ public class Principal {
         episodio.setTotaVisualizacoes(300);
         filtro.filtra(episodio);
 
-        var filmeDoFabricio = new Filme("Filme do fabricio",2003);
+        Filme filmeDoFabricio = new Filme("Filme do fabricio",2003);
         filmeDoFabricio.setDuracaoEmMinutos(300);
         filmeDoFabricio.avalia(9);
 
