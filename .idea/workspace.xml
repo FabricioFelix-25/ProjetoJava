@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="continuando PrincipalComListas">
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="continuando PrincipalComListas2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +167,8 @@
       <workItem from="1726747422087" duration="1447000" />
       <workItem from="1727268554540" duration="841000" />
       <workItem from="1728343682340" duration="584000" />
-      <workItem from="1728389157860" duration="1596000" />
+      <workItem from="1728389157860" duration="2003000" />
+      <workItem from="1728477049810" duration="1380000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -375,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728344240692</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="continuando PrincipalComListas2">
+      <option name="closed" value="true" />
+      <created>1728391046275</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1728391046275</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,7 +404,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="teste" />
     <MESSAGE value="teste das 3 &quot;&quot;&quot;" />
     <MESSAGE value="cast de valores" />
     <MESSAGE value="if else para nivel de plan0" />
@@ -418,6 +428,7 @@
     <MESSAGE value=" construtores super e ano de lançamento" />
     <MESSAGE value="nao finalizdo" />
     <MESSAGE value="continuando PrincipalComListas" />
-    <option name="LAST_COMMIT_MESSAGE" value="continuando PrincipalComListas" />
+    <MESSAGE value="continuando PrincipalComListas2" />
+    <option name="LAST_COMMIT_MESSAGE" value="continuando PrincipalComListas2" />
   </component>
 </project>
