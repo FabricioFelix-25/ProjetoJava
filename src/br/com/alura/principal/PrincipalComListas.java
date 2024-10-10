@@ -5,8 +5,10 @@ import br.com.alura.screematch.modelos.Serie;
 import br.com.alura.screematch.modelos.Titulo;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 
-public class PrincipalComListas {
+public class PrincipalComListas  {
     public static void main(String[] args) {
     Filme meuFilme = new Filme("O poderoso chefão",1970);
     meuFilme.avalia(9);
@@ -34,5 +36,25 @@ public class PrincipalComListas {
             }
 
         }
+        ArrayList<String> buscaPorArtista = new ArrayList<>();
+        buscaPorArtista.add("Adam Sabdler");
+        buscaPorArtista.add("Bob Sabdler");
+        buscaPorArtista.add("hoi");
+        buscaPorArtista.add("fala");
+        System.out.println(buscaPorArtista);
+
+
+
+        Collections.sort(buscaPorArtista);
+        System.out.println("Depois da ordenacao");
+        System.out.println(buscaPorArtista);
+
+        System.out.println("lista de titulos ordenados");
+        Collections.sort(lista);
+        System.out.println(lista);
+
+        lista.sort(Comparator.comparing(Titulo::getAnoDeLancamento));
+        System.out.println("ano de lancamento");
+        System.out.println(lista);
     }
 }

@@ -7,7 +7,7 @@
     <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="continuando PrincipalComListas2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComListas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Serie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,8 +136,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -169,6 +169,8 @@
       <workItem from="1728343682340" duration="584000" />
       <workItem from="1728389157860" duration="2003000" />
       <workItem from="1728477049810" duration="1380000" />
+      <workItem from="1728561630564" duration="47000" />
+      <workItem from="1728562127414" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
