@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="continuando PrincipalComListas2">
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="to string de serie e comparator de ano">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComListas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +169,8 @@
       <workItem from="1728389157860" duration="2003000" />
       <workItem from="1728477049810" duration="1380000" />
       <workItem from="1728561630564" duration="47000" />
-      <workItem from="1728562127414" duration="317000" />
+      <workItem from="1728562127414" duration="1073000" />
+      <workItem from="1728910232101" duration="1160000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -388,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728391046275</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="to string de serie e comparator de ano">
+      <option name="closed" value="true" />
+      <created>1728562515393</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1728562515393</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,7 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="teste das 3 &quot;&quot;&quot;" />
     <MESSAGE value="cast de valores" />
     <MESSAGE value="if else para nivel de plan0" />
     <MESSAGE value="criação da entrada de dados" />
@@ -431,6 +438,7 @@
     <MESSAGE value="nao finalizdo" />
     <MESSAGE value="continuando PrincipalComListas" />
     <MESSAGE value="continuando PrincipalComListas2" />
-    <option name="LAST_COMMIT_MESSAGE" value="continuando PrincipalComListas2" />
+    <MESSAGE value="to string de serie e comparator de ano" />
+    <option name="LAST_COMMIT_MESSAGE" value="to string de serie e comparator de ano" />
   </component>
 </project>
