@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="http request">
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="gson">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screen Match.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Screen Match.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;FabricioFelix-25&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/FabricioFelix-25/ProjetoJava.git&quot;,
-    &quot;accountId&quot;: &quot;fc598784-4ed7-408d-95f0-8a9f881a402d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/FabricioFelix-25/ProjetoJava.git",
+    "accountId": "6b470bd7-71cf-4f67-95da-7d0c546a2f3d"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -48,34 +48,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Condicional.executor": "Run",
-    "Application.Conditional.executor": "Run",
-    "Application.Leitura.executor": "Run",
-    "Application.Loop.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Principal.executor": "Run",
-    "Application.PrincipalComBusca.executor": "Run",
-    "Application.PrincipalComListas.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/projetos/PojetoJava",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/projetos/ProjetoJava/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Condicional.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditional.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Leitura.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalComBusca.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalComListas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/projetos/PojetoJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/projetos/ProjetoJava/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\projetos\ProjetoJava\src" />
@@ -180,6 +180,7 @@
       <workItem from="1728910232101" duration="1199000" />
       <workItem from="1729551051397" duration="498000" />
       <workItem from="1729639642462" duration="962000" />
+      <workItem from="1729640923143" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -413,7 +414,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728911433995</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="gson">
+      <option name="closed" value="true" />
+      <created>1729641071229</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1729641071229</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,7 +440,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="if else para nivel de plan0" />
     <MESSAGE value="criação da entrada de dados" />
     <MESSAGE value="area de avaliaçoes" />
     <MESSAGE value="inicio de fato" />
@@ -456,6 +464,7 @@
     <MESSAGE value="continuando PrincipalComListas2" />
     <MESSAGE value="to string de serie e comparator de ano" />
     <MESSAGE value="http request" />
-    <option name="LAST_COMMIT_MESSAGE" value="http request" />
+    <MESSAGE value="gson" />
+    <option name="LAST_COMMIT_MESSAGE" value="gson" />
   </component>
 </project>

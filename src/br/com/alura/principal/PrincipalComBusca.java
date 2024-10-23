@@ -17,7 +17,7 @@ public class PrincipalComBusca {
         System.out.println("Digite um filme para busca: ");
         var busca = leitura.nextLine();
 
-        String endereco = "https://www.omdbapi.com/?t=" + busca + "apí";
+        String endereco = "https://www.omdbapi.com/?t=" + busca + "&ap i key=sdfsdfsdfsd67f7dd6b";
 
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
@@ -30,7 +30,7 @@ public class PrincipalComBusca {
 
         Gson gson = new Gson();
         Titulo meuTitulo = gson.fromJson(json, Titulo.class);
-        System.out.println("Titulo: " + meuTitulo.getNome());
+        System.out.println(meuTitulo);
 
     }
 }
