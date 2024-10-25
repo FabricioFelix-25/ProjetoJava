@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="gson">
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="finalizado">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/TituloOmdb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" afterDir="false" />
@@ -18,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -30,12 +32,12 @@
     &quot;assignee&quot;: &quot;FabricioFelix-25&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/FabricioFelix-25/ProjetoJava.git",
-    "accountId": "6b470bd7-71cf-4f67-95da-7d0c546a2f3d"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FabricioFelix-25/ProjetoJava.git&quot;,
+    &quot;accountId&quot;: &quot;6b470bd7-71cf-4f67-95da-7d0c546a2f3d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -180,7 +182,8 @@
       <workItem from="1728910232101" duration="1199000" />
       <workItem from="1729551051397" duration="498000" />
       <workItem from="1729639642462" duration="962000" />
-      <workItem from="1729640923143" duration="616000" />
+      <workItem from="1729640923143" duration="699000" />
+      <workItem from="1729895426895" duration="1688000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -422,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729641071229</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="finalizado">
+      <option name="closed" value="true" />
+      <created>1729641937322</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1729641937322</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,7 +451,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="criação da entrada de dados" />
     <MESSAGE value="area de avaliaçoes" />
     <MESSAGE value="inicio de fato" />
     <MESSAGE value="continuação da classe filme e principal" />
@@ -465,6 +475,7 @@
     <MESSAGE value="to string de serie e comparator de ano" />
     <MESSAGE value="http request" />
     <MESSAGE value="gson" />
-    <option name="LAST_COMMIT_MESSAGE" value="gson" />
+    <MESSAGE value="finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizado" />
   </component>
 </project>

@@ -2,7 +2,10 @@ package br.com.alura.principal;
 
 
 import br.com.alura.screematch.modelos.Titulo;
+import br.com.alura.screematch.modelos.TituloOmdb;
+import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 import java.io.IOException;
 import java.net.URI;
@@ -17,7 +20,7 @@ public class PrincipalComBusca {
         System.out.println("Digite um filme para busca: ");
         var busca = leitura.nextLine();
 
-        String endereco = "https://www.omdbapi.com/?t=" + busca + "&ap i key=sdfsdfsdfsd67f7dd6b";
+        String endereco = "https://www.omdbapi.com/?t=" + busca + "&apikey=67f7dd6b";
 
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
@@ -28,8 +31,13 @@ public class PrincipalComBusca {
         String json = response.body();
         System.out.println(response.body());
 
-        Gson gson = new Gson();
-        Titulo meuTitulo = gson.fromJson(json, Titulo.class);
+        Gson gson = new GsonBuilder()
+                .setFieldNamingPolicy(FieldNamingPolicy.UPPER_CAMEL_CASE)
+                .create();
+        TituloOmdb meuTituloOmdb = gson.fromJson(json, TituloOmdb.class);
+        System.out.println(meuTituloOmdb);
+          Titulo meuTitulo = new Titulo(meuTituloOmdb);
+        System.out.println("titulo: " );
         System.out.println(meuTitulo);
 
     }
