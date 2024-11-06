@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="tratando mais execoes">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/excecao/ErroDeConversaoDeAnoExceptio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="criacao de classe para erro">
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +187,7 @@
       <workItem from="1730050904733" duration="5000" />
       <workItem from="1730160800382" duration="931000" />
       <workItem from="1730244181546" duration="273000" />
-      <workItem from="1730934276044" duration="1796000" />
+      <workItem from="1730934276044" duration="2104000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -456,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730244436293</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="criacao de classe para erro">
+      <option name="closed" value="true" />
+      <created>1730936488360</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1730936488360</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="continuação da classe filme e principal" />
     <MESSAGE value="uso de private para classe filme" />
     <MESSAGE value="." />
     <MESSAGE value="limpeza de programa, e criação de pack" />
@@ -499,6 +503,7 @@
     <MESSAGE value="finalizado" />
     <MESSAGE value="try catch" />
     <MESSAGE value="tratando mais execoes" />
-    <option name="LAST_COMMIT_MESSAGE" value="tratando mais execoes" />
+    <MESSAGE value="criacao de classe para erro" />
+    <option name="LAST_COMMIT_MESSAGE" value="criacao de classe para erro" />
   </component>
 </project>
