@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="uso de &quot;fileWriter&quot; para criacao de arquivos">
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="opcao de mais de uma pesquisa e listas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +190,8 @@
       <workItem from="1730160800382" duration="931000" />
       <workItem from="1730244181546" duration="273000" />
       <workItem from="1730934276044" duration="2296000" />
-      <workItem from="1731019386917" duration="673000" />
+      <workItem from="1731019386917" duration="803000" />
+      <workItem from="1731187488175" duration="359000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -471,7 +473,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730936725814</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="opcao de mais de uma pesquisa e listas">
+      <option name="closed" value="true" />
+      <created>1731020181743</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1731020181743</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
     <MESSAGE value="limpeza de programa, e criação de pack" />
     <MESSAGE value="getter setter" />
     <MESSAGE value="uso de herança para filmes e series" />
@@ -514,6 +523,7 @@
     <MESSAGE value="tratando mais execoes" />
     <MESSAGE value="criacao de classe para erro" />
     <MESSAGE value="uso de &quot;fileWriter&quot; para criacao de arquivos" />
-    <option name="LAST_COMMIT_MESSAGE" value="uso de &quot;fileWriter&quot; para criacao de arquivos" />
+    <MESSAGE value="opcao de mais de uma pesquisa e listas" />
+    <option name="LAST_COMMIT_MESSAGE" value="opcao de mais de uma pesquisa e listas" />
   </component>
 </project>
