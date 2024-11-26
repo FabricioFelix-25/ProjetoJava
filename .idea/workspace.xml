@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="opcao de mais de uma pesquisa e listas">
+    <list default="true" id="398565b0-b37b-490e-b6a8-c6143210b653" name="Changes" comment="atualização no print do gson com arquivo json">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screematch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SouGay/Downloads/gson-2.11.0.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SouGay/OneDrive/Área de Trabalho/aluno&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -74,6 +72,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -191,7 +190,10 @@
       <workItem from="1730244181546" duration="273000" />
       <workItem from="1730934276044" duration="2296000" />
       <workItem from="1731019386917" duration="803000" />
-      <workItem from="1731187488175" duration="359000" />
+      <workItem from="1731187488175" duration="1423000" />
+      <workItem from="1732621386496" duration="59000" />
+      <workItem from="1732659436592" duration="683000" />
+      <workItem from="1732660903370" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -481,7 +483,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731020181743</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="atualização no print do gson com arquivo json">
+      <option name="closed" value="true" />
+      <created>1731188141023</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1731188141023</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,7 +509,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="limpeza de programa, e criação de pack" />
     <MESSAGE value="getter setter" />
     <MESSAGE value="uso de herança para filmes e series" />
     <MESSAGE value="atualilação com override" />
@@ -524,6 +533,7 @@
     <MESSAGE value="criacao de classe para erro" />
     <MESSAGE value="uso de &quot;fileWriter&quot; para criacao de arquivos" />
     <MESSAGE value="opcao de mais de uma pesquisa e listas" />
-    <option name="LAST_COMMIT_MESSAGE" value="opcao de mais de uma pesquisa e listas" />
+    <MESSAGE value="atualização no print do gson com arquivo json" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualização no print do gson com arquivo json" />
   </component>
 </project>

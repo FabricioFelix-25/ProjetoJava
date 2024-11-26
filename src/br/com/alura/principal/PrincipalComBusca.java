@@ -30,13 +30,13 @@ public class PrincipalComBusca {
                 .setPrettyPrinting()
                 .create();
 
-        while (!busca.equalsIgnoreCase("sair")){
+        while (!busca.equalsIgnoreCase("Sair")){
 
 
-        System.out.println("Digite um filme para busca: ");
+        System.out.println("Digite um filme para buscar: ");
         busca = leitura.nextLine();
 
-        if (busca.equalsIgnoreCase("sair")){
+        if (busca.equalsIgnoreCase("Sair")){
             break;
         }
 
