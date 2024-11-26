@@ -56,7 +56,7 @@ public class PrincipalComBusca {
             System.out.println(meuTituloOmdb);
             //try {
             Titulo meuTitulo = new Titulo(meuTituloOmdb);
-            System.out.println("titulo ja convertido " );
+            System.out.println("Titulo ja convertido " );
             System.out.println(meuTitulo);
 
 
@@ -64,10 +64,10 @@ public class PrincipalComBusca {
 
 
         }catch (NumberFormatException e) {
-            System.out.println("aconteceu um erro: ");
+            System.out.println("Aconteceu um erro: ");
             System.out.println(e.getMessage());
         } catch (IllegalArgumentException e) {
-            System.out.println("Algum erro de argumento na busca, verifique o endereço");
+            System.out.println("Algum erro de argumento na busca, verifique o endereço.");
         } catch (ErroDeConversaoDeAnoExceptio e) {
             System.out.println(e.getMessage());
         }
